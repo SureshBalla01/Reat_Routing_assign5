@@ -1,0 +1,24 @@
+{
+  "employees": [
+    {
+      "name": "Rahul",
+      "designation": "It",
+      "id": 9
+    },
+    {
+      "name": "Abhi",
+      "designation": "PA",
+      "id": 12
+    },
+    {
+      "name": "Suresh",
+      "dept": "IT",
+      "id": 16
+    },
+    {
+      "name": "shanks",
+      "dept": "cse",
+      "id": 17
+    }
+  ]
+}
